@@ -2,18 +2,13 @@
 
 This repository compiles a collection of Vega-Lite and Altair tutorials, compiled by the Vega team. 
 
+## Quick Tutorial
 
-## Brief Tutorial
+- [Vega-Lite + Altair Tutorial at ODSC 2019](https://github.com/vega/tutorials/tree/master/odsc2019) - Quick overview
 
-- [Vega-Lite + Altair Tutorial at ODSC 2019](tree/master/odsc2019/) - Focus on Altair
 
 ## Extended Tutorial
 
-See the University of Washington's [Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum), which includes a series of Python-based Jupyter notebooks as well as JavaScript notebooks on Observable. 
+- [2019] (Vega-Lite and Altair) University of Washington's [Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)- a series of Python-based Jupyter notebooks as well as JavaScript notebooks on Observable. 
 
-
-
-
-
-
-
+- [2018] (Altair) [Altair Tutorial at Pycon 2018](https://github.com/altair-viz/altair-tutorial) by Jake VanderPlas - Video tutorial with Jupyter notebooks

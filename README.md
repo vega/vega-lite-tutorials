@@ -5,6 +5,7 @@ This repository compiles a collection of Vega-Lite and Altair tutorials, compile
 ## Quick Tutorial
 
 - [Vega-Lite + Altair Tutorial at ODSC 2019](https://github.com/vega/tutorials/tree/master/odsc2019) - Quick overview
+- [Vega-Lite + Altair Tutorial at SDSS 2019](https://github.com/vega/tutorials/tree/master/sdss2019) - Quick overview
 
 
 ## Extended Tutorial

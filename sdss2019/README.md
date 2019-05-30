@@ -7,7 +7,7 @@ This directory hosts materials for the "Declarative Data Visualization with Vega
 Please install Jupyter Lab, Vega-datasets and Altair.  
 
 ```
-pip install -U altair==2.4.1 vega_datasets jupyterlab
+pip install -U altair vega_datasets jupyterlab==1.0.0a5
 ```
 
-Note that Altair 3.0 works better with Jupyter Lab 1, which is currently in a pre-release stage, so you may want to use Altair 2.4.1 for now. 
+Note that Altair 3.0 works better with Jupyter Lab 1, which is currently in a pre-release stage. 

@@ -4,7 +4,7 @@ This directory hosts materials for the "Declarative Data Visualization with Vega
 
 ### Dependencies
 
-Please install Jupyter Lab, Vega-datasets and Altair.  
+Please install Jupyter Lab, Vega-Datasets and Altair.
 
 ```
 pip install -U altair vega_datasets jupyterlab==1.0.0a5
